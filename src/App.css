@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.heffect :hover{
+
+  font-size: 1.15rem;
+
+}
+
+
+
+
+
+@media only screen and (min-width: 786px) {
+  .itemeffect:hover{
+
+    /* width: 26vw; */
+    /* border: 2px solid red; */
+    box-shadow: 3px 3px 10px black ;
+  }
+
+}
+
+img.imagedecorate {
+  height: 7.5vh;
+  border-radius: 4px;
+  position: absolute;
+  top: 9px;
+  right: 0;
+}
+
+.container.d-flex.justify-content-between{
+  margin-top: 1.8vh;
+  margin-bottom: 1.8vh;
+  }
+  
+  
+  
+  .container.my-3 {
+    background: #ebebeb;
+    border: 1px solid black;
+    box-shadow: 2px 2px 21px 8px;
+    width: 93vw;
+    border-radius: 8px;
+}
+  
