@@ -5,13 +5,9 @@ https://github.com/Yashvithalkar/newsapp/assets/92716787/39d8161d-1072-4bd0-a445
 
 # Introduction
 
-- Developed a responsive and user-friendly front-end using HTML, CSS, and JavaScript.
-- Integrated RESTful APIs to fetch and display dynamic content on the website.
-- Designed and implemented a MongoDB database using Mongoose for efficient data storage and retrieval.
-- Implemented user authentication and authorization features using Node.js.
-- Optimized website performance, resulting in reduced load times and enhanced user experience.
-- Technologies used: Node.js, API integration, Mongoose, HTML, CSS, JavaScript.
-
+Developed a responsive newsapplication, Deshdarpan, usingReact.
+Integrated RESTful APIs to fetch real-time news data and displayedit in a user-friendly format.
+Utilized HTML,CSS,JS,BOOTSTRAP forstate management, ensuring asmooth and seamless userexperience.
 
 
 # Getting Started with Create React App
