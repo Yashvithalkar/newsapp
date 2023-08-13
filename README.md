@@ -1,3 +1,19 @@
+# OUTPUT
+
+
+https://github.com/Yashvithalkar/newsapp/assets/92716787/39d8161d-1072-4bd0-a445-e85ca3f8e508
+
+# Introduction
+
+- Developed a responsive and user-friendly front-end using HTML, CSS, and JavaScript.
+- Integrated RESTful APIs to fetch and display dynamic content on the website.
+- Designed and implemented a MongoDB database using Mongoose for efficient data storage and retrieval.
+- Implemented user authentication and authorization features using Node.js.
+- Optimized website performance, resulting in reduced load times and enhanced user experience.
+- Technologies used: Node.js, API integration, Mongoose, HTML, CSS, JavaScript.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
